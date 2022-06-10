@@ -1,0 +1,95 @@
+
+body {
+    font-family:'Trebuchet MS';
+    color: rgb(255, 255, 255);
+    padding: 60px ;   
+    background-image: url(image/employee-meeting.jpg);
+    background-color: #2629d891;
+    background-blend-mode: lighten;
+    min-height: 500px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+input[type=text], select {
+    box-shadow: 3px 3px 3px rgb(250, 244, 244);
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    }
+
+
+button {
+    font-family: 'Trebuchet MS';
+    text-shadow: #070707 3px 3px 3px;
+    box-shadow: 3px 3px 3px rgb(250, 244, 244);
+    width: 100%;
+    padding: 14px 20px;
+    margin: 8px 0px;
+    border: none;
+    border-radius: 4px;
+    box-sizing: pointer;
+    background-color: rgb(35, 216, 35);
+    cursor: pointer;
+    color: white;
+}
+
+div {
+    font-family: 'Trebuchet MS';
+    color: white;
+    margin: auto;
+    border-radius: 5px;
+    background-color: #272c5572;
+    background-blend-mode: lighten;
+    padding: 50px;
+    width: 50%;
+
+}
+h1 {
+    font-family: 'Trebuchet MS';
+    color: white;
+    text-align: center;
+}
+h4 {
+    font-family: 'Trebuchet MS';
+    color: white;
+   
+}
+p {
+    font-family: 'Trebuchet MS';
+    color: white;
+    text-align: center;
+    line-height: auto;
+    margin: 10px auto;
+ 
+}
+textarea {
+    font-family: 'Trebuchet MS';
+    border-radius: 5px;
+    line-height: auto;
+    width: 99%;
+    margin:  auto;
+   
+}
+label {
+    font-family: 'Trebuchet MS';
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+blockquote {
+    font-family: 'Trebuchet MS';
+    text-align-last: center;
+    line-height: auto;
+    width: 50%;
+    margin: 10px auto;
+}
+
+
+
